@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```
 📦 Face-Recognition-Attendance
  ┣ 📂 Training_images        # Folder containing face images
- ┣ 📜 main.py   # Main script
+ ┣ 📜 main.py                # Main script
  ┣ 📜 requirements.txt       # Required dependencies
  ┣ 📜 Attendance.csv         # Logs attendance data
  ┗ 📜 README.md              # Project documentation
