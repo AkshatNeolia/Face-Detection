@@ -19,8 +19,8 @@ cd Face-Recognition-Attendance
 
 ### 2. Create a Virtual Environment
 ```bash
-conda create --name facedec python=3.9
-conda activate facedec
+conda create -n facedec python=3.7
+activate facedec
 ```
 
 ### 3. Install Dependencies
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 1. Place training images in the `Training_images` folder. 
 2. Run the face recognition script:
    ```bash
-   python face_recognition_attendance.py
+   main.py
    ```
 3. The system will recognize faces and mark attendance in `Attendance.csv`.
 
@@ -41,14 +41,14 @@ pip install -r requirements.txt
 ```
 📦 Face-Recognition-Attendance
  ┣ 📂 Training_images        # Folder containing face images
- ┣ 📜 face_recognition_attendance.py   # Main script
+ ┣ 📜 main.py   # Main script
  ┣ 📜 requirements.txt       # Required dependencies
  ┣ 📜 Attendance.csv         # Logs attendance data
  ┗ 📜 README.md              # Project documentation
 ```
 
 ## Dependencies
-- Python 3.9+
+- Python 3.7
 - OpenCV
 - Face Recognition Library
 - NumPy
