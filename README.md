@@ -7,7 +7,7 @@ It captures faces in real-time using a webcam, compares them with pre-trained im
 - Detects and recognizes faces in real-time.
 - Marks attendance with timestamp in `Attendance.csv`.
 - Displays a **green box** for recognized faces and a **red box** for unrecognized faces.
-- Automatically stops if no recognized face appears for 10 seconds.
+- Automatically stops if no recognized face appears for 10 secs.
 
 ## Installation
 
