@@ -13,7 +13,7 @@ It captures faces in real-time using a webcam, compares them with pre-trained im
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Face-Recognition-Attendance.git
+git clone https://github.com/AkshatNeolia/Face-Recognition-Attendance.git
 cd Face-Recognition-Attendance
 ```
 
