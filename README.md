@@ -1,6 +1,6 @@
-# Face Recognition Attendance System
+# Facial Recognition Attendance System
 
-This is a **Face Recognition-based Attendance System** built using OpenCV, Face Recognition library, and Python. 
+This is a **Facial Recognition-based Attendance System** built using OpenCV, Face Recognition library, and Python. 
 It captures faces in real-time using a webcam, compares them with pre-trained images, and marks attendance accordingly.
 
 ## Features
@@ -13,8 +13,8 @@ It captures faces in real-time using a webcam, compares them with pre-trained im
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/AkshatNeolia/Face-Recognition-Attendance.git
-cd Face-Recognition-Attendance
+git clone https://github.com/AkshatNeolia/Facial-Recognition-Attendance.git
+cd Facial-Recognition-Attendance
 ```
 
 ### 2. Create a Virtual Environment
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ## Project Structure
 ```
-📦 Face-Recognition-Attendance
+📦 Facial-Recognition-Attendance-Tracker
  ┣ 📂 Training_images        # Folder containing face images
  ┣ 📜 main.py                # Main script
  ┣ 📜 requirements.txt       # Required dependencies
